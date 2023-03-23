@@ -2,11 +2,11 @@
 India/Brazil/Southeast Asia Baccarat Game API. Global card game API interface, supporting multiple languages
 
 #### Introduce
-Excellen 7UP7DOWN game.
+Excellen Baccarat game.
 
 Perfect numerical system and AI experience.
 
-Not only supports 7UP7DOWN, but also dozens of popular games can be accessed simultaneously.
+Not only supports Baccarat, but also dozens of popular games can be accessed simultaneously.
 
 全球棋牌游戏API接口，支持多种语言丨Global chess and card game API interface, supporting multiple languages
 
@@ -24,3 +24,4 @@ Telegram：@Jalonex https://t.me/Jalonex
 
 
 #### Game Picture （游戏截图）
+![image](https://user-images.githubusercontent.com/90822325/227083904-298ba17f-762f-4555-82ed-4e14a7d7fd06.png)
